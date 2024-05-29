@@ -8,3 +8,4 @@ This log tracks architectural and documentation refinements.
 - `2024-05-24` — gitignore
 - `2024-05-27` — surface key invariants
 - `2024-05-27` — rephrase capabilities
+- `2024-05-29` — trailing whitespace

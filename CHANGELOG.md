@@ -10,3 +10,4 @@ This log tracks architectural and documentation refinements.
 - `2024-05-27` — rephrase capabilities
 - `2024-05-29` — trailing whitespace
 - `2024-07-24` — surface key invariants
+- `2024-07-24` — link external references

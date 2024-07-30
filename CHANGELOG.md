@@ -14,3 +14,4 @@ This log tracks architectural and documentation refinements.
 - `2024-07-25` — badges + status
 - `2024-07-29` — contact block tidy
 - `2024-07-30` — link external references
+- `2024-07-30` — tighten architecture overview

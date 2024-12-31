@@ -17,3 +17,4 @@ This log tracks architectural and documentation refinements.
 - `2024-07-30` — tighten architecture overview
 - `2024-07-30` — capabilities — clarify wording
 - `2024-12-31` — clarify component responsibilities
+- `2024-12-31` — refine engineering invariants

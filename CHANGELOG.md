@@ -21,3 +21,4 @@ This log tracks architectural and documentation refinements.
 - `2025-01-01` — refine engineering invariants
 - `2025-01-03` — license notice
 - `2025-01-20` — capabilities — clarify wording
+- `2025-01-21` — clarify component responsibilities

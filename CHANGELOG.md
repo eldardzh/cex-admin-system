@@ -22,3 +22,4 @@ This log tracks architectural and documentation refinements.
 - `2025-01-03` — license notice
 - `2025-01-20` — capabilities — clarify wording
 - `2025-01-21` — clarify component responsibilities
+- `2025-01-22` — expand 'My Role' section

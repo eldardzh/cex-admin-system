@@ -25,3 +25,4 @@ This log tracks architectural and documentation refinements.
 - `2025-01-22` — expand 'My Role' section
 - `2025-01-22` — ADR — chain-agnostic boundary
 - `2025-01-22` — scope clarification
+- `2025-01-25` — gitignore

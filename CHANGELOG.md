@@ -28,3 +28,4 @@ This log tracks architectural and documentation refinements.
 - `2025-01-25` — gitignore
 - `2025-02-04` — rephrase TL;DR
 - `2025-02-04` — tighten architecture overview
+- `2025-02-05` — ADR — reorg-safe projection

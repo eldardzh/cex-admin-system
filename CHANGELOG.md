@@ -30,3 +30,4 @@ This log tracks architectural and documentation refinements.
 - `2025-02-04` — tighten architecture overview
 - `2025-02-05` — ADR — reorg-safe projection
 - `2025-03-03` — gitignore
+- `2025-03-04` — refine engineering invariants

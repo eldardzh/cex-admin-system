@@ -34,3 +34,4 @@ This log tracks architectural and documentation refinements.
 - `2025-03-27` — improve mermaid diagram
 - `2025-06-02` — surface key invariants
 - `2025-10-29` — link external references
+- `2025-10-29` — rephrase TL;DR

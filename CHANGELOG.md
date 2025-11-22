@@ -36,3 +36,4 @@ This log tracks architectural and documentation refinements.
 - `2025-10-29` — link external references
 - `2025-10-29` — rephrase TL;DR
 - `2025-11-22` — tighten decisions section
+- `2025-11-22` — badges + status

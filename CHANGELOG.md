@@ -39,3 +39,4 @@ This log tracks architectural and documentation refinements.
 - `2025-11-22` — badges + status
 - `2026-01-24` — ADR — idempotent execution
 - `2026-02-02` — more precise stack list
+- `2026-02-02` — tighten decisions section

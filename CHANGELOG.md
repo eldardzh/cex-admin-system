@@ -42,3 +42,4 @@ This log tracks architectural and documentation refinements.
 - `2026-02-02` — tighten decisions section
 - `2026-02-02` — link external references
 - `2026-02-03` — markdown lint
+- `2026-02-06` — rephrase capabilities

@@ -46,3 +46,4 @@ This log tracks architectural and documentation refinements.
 - `2026-02-06` — ADR — risk layer veto authority
 - `2026-02-09` — improve mermaid diagram
 - `2026-02-09` — tighten decisions section
+- `2026-02-11` — more precise stack list

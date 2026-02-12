@@ -49,3 +49,4 @@ This log tracks architectural and documentation refinements.
 - `2026-02-11` — more precise stack list
 - `2026-02-11` — tighten architecture overview
 - `2026-02-11` — refine engineering invariants
+- `2026-02-12` — expand 'My Role' section

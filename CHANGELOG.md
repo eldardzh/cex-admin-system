@@ -52,3 +52,4 @@ This log tracks architectural and documentation refinements.
 - `2026-02-12` — expand 'My Role' section
 - `2026-02-12` — refine engineering invariants
 - `2026-02-12` — improve mermaid diagram
+- `2026-02-12` — license notice

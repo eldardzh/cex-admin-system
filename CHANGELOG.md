@@ -54,3 +54,4 @@ This log tracks architectural and documentation refinements.
 - `2026-02-12` — improve mermaid diagram
 - `2026-02-12` — license notice
 - `2026-02-18` — badges + status
+- `2026-02-23` — more precise stack list

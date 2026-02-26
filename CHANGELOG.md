@@ -56,3 +56,4 @@ This log tracks architectural and documentation refinements.
 - `2026-02-18` — badges + status
 - `2026-02-23` — more precise stack list
 - `2026-02-26` — capabilities — clarify wording
+- `2026-02-26` — more precise stack list

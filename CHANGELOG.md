@@ -57,3 +57,4 @@ This log tracks architectural and documentation refinements.
 - `2026-02-23` — more precise stack list
 - `2026-02-26` — capabilities — clarify wording
 - `2026-02-26` — more precise stack list
+- `2026-02-26` — production status update

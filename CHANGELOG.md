@@ -59,3 +59,4 @@ This log tracks architectural and documentation refinements.
 - `2026-02-26` — more precise stack list
 - `2026-02-26` — production status update
 - `2026-02-28` — badge refresh
+- `2026-03-23` — ADR — queue-backed mutations

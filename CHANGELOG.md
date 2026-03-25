@@ -61,3 +61,4 @@ This log tracks architectural and documentation refinements.
 - `2026-02-28` — badge refresh
 - `2026-03-23` — ADR — queue-backed mutations
 - `2026-03-24` — rephrase capabilities
+- `2026-03-25` — production status update

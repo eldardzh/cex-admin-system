@@ -1,13 +1,8 @@
-<div align="center">
+<!-- animated-project-banner -->
+<p align="center"><img src="assets/project-banner.svg" width="100%" alt="CEX administration"></p>
+<!-- /animated-project-banner -->
 
-```
-    ██████╗███████╗██╗  ██╗
-   ██╔════╝██╔════╝╚██╗██╔╝
-   ██║     █████╗   ╚███╔╝
-   ██║     ██╔══╝   ██╔██╗
-   ╚██████╗███████╗██╔╝ ██╗
-    ╚═════╝╚══════╝╚═╝  ╚═╝
-```
+<div align="center">
 
 # CEX Admin Control Plane
 
